@@ -10,6 +10,7 @@ public class Move
     {
         _from = from;
         _to = to;
+
     }
 
     public Position getFrom()

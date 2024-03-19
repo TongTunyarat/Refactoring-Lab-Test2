@@ -18,6 +18,7 @@ public class ChessBoard
     {
         _board = new Cell[8][8];
         initBoard();
+
     }
 
     private void initBoard()
