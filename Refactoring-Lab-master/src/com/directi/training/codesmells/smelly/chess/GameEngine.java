@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class GameEngine
 {
+    // testjaja
     private static final Scanner scanner = new Scanner(System.in);
     private final ChessBoard _chessBoard;
     private Player _player1, _player2;
